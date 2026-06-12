@@ -103,6 +103,3 @@ The model was trained using **GridSearchCV** across three algorithms:
 ---
  
 > *Because your model should know the difference between Messi and Federer.* ⚽🎾
----
- 
-*Built as part of the [Codebasics Machine Learning Course](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)*
