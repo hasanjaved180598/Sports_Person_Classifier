@@ -1,0 +1,25 @@
+# Model artifacts
+model/saved_model.pkl
+model/class_dictionary.json
+
+# Datasets & images
+model/dataset/
+model/opencv/
+model/test_images/
+server/artifacts/
+server/opencv/
+server/test_images/
+server/b64.txt
+UI/test_images/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
